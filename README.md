@@ -1,3 +1,8 @@
+# ATTENSION 
+
+This project possibly doesn't reflect the latest changes.  
+Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)	
+
 # Nodeclipse - Node.js support in Eclipse IDE
 
 ![nodeclipse-logo](nodeclipse-logo-rough.png)
@@ -117,7 +122,10 @@ http://stackoverflow.com/questions/8179369/debugging-node-js-with-eclipse
 http://stackoverflow.com/questions/7038961/node-js-in-eclipse-which-plugins-are-most-people-using  
 https://groups.google.com/forum/#!msg/nodejs/ayLUeUOanzA/et6EEZppVjMJ  
 http://stackoverflow.com/questions/15407334/eclipse-rcp-add-optional-dependencies  
-http://cnodejs.org/topic/5149c795069911196df84af7   
+http://cnodejs.org/topic/5149c795069911196df84af7 
+http://en.wikipedia.org/wiki/List_of_Eclipse_projects#Third_party_projects
+http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/15700606#15700606  
+http://stackoverflow.com/questions/609316/debug-javascript-in-eclipse/15701220
 
 ### Hot requests
 
@@ -147,6 +155,8 @@ http://stackoverflow.com/questions/10352089/how-do-i-build-an-eclipse-rcp-app-so
 http://stackoverflow.com/questions/14591472/installing-an-additional-feature-during-product-build-for-some-eclipse-versions  
 http://stackoverflow.com/questions/10529859/how-to-include-video-in-jekyll-markdown-blog  
 http://stackoverflow.com/questions/2330620/eclipse-i-turned-on-hidden-characters-now-i-cant-turn-off  
-[Eclipse JavaScript Development Tools (JSDT)](http://eclipse.org/webtools/jsdt/) has only JS web support.     
+[Eclipse JavaScript Development Tools (JSDT)](http://eclipse.org/webtools/jsdt/) has only JS web support.
+http://stackoverflow.com/questions/300855/looking-for-a-better-javascript-unit-test-tool  
+http://stackoverflow.com/questions/4025444/eclipse-javascript-editor-10   
 add interesting stuff here...
 
